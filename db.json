@@ -1,4 +1,5 @@
- [
+{
+     "restaurants":[
     {
       "data": { 
         "id": 1,
@@ -73,3 +74,4 @@
        "imgId": "/PcKPSX9/imageedit-12-5594272064.jpg"
       }}
   ]
+}
