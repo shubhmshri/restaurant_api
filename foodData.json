@@ -1,0 +1,75 @@
+ [
+    {
+      "data": { 
+        "id": 1,
+      "restaurantName": "PeaceLighter Pizza",
+      "adress": "Hire me sk. no: 26-34",
+      "restaurantPoint": "9.8",
+      "status": "excellent",
+      "minimumPrice": "25.0₺",
+      "deliveryCost": "5.0₺",
+      "restaurantImageUrl": "https://i.ibb.co/PDP6QN9/imageedit-2-8913973589.jpg",
+      "imgId": "/PDP6QN9/imageedit-2-8913973589.jpg"
+    }
+   },
+    {
+      "data": { 
+      "id": 2,
+      "restaurantName": "Acı Atümü Adana",
+      "adress": "Kiremit Sokak. no:01",
+      "restaurantPoint": "7.5",
+      "status": "good",
+      "minimumPrice": "15.0₺",
+      "deliveryCost": "10.0₺",
+      "restaurantImageUrl": "https://i.ibb.co/C09njxC/imageedit-4-3775173323.jpg",
+      "imgId": "/C09njxC/imageedit-4-3775173323.jpg"
+    }},
+    {
+      "data": { 
+      "id": 3,
+      "restaurantName": "Yeşil Hayat",
+      "adress": "Yeşil barış sokak. no: 68",
+      "restaurantPoint": "5.3",
+      "status": "bad",
+      "minimumPrice": "50.0₺",
+      "deliveryCost": "0.0₺",
+      "restaurantImageUrl": "https://i.ibb.co/CQZ8Nb6/imageedit-6-8890698964.jpg",
+      "imgId": "/CQZ8Nb6/imageedit-6-8890698964.jpg"
+    }},
+    {
+      "data": { 
+      "id": 4,
+      "restaurantName": "Ocak Sonu Kebap",
+      "adress": "Beyaz Atlet sokak. no: 50",
+      "restaurantPoint": "8.7",
+      "status": "excellent",
+      "minimumPrice": "100.0₺",
+      "deliveryCost": "10.0₺",
+      "restaurantImageUrl": "https://i.ibb.co/kMkm8qZ/imageedit-8-6584922246.jpg",
+      "imgId": "/kMkm8qZ/imageedit-8-6584922246.jpg"
+    }},
+    {
+      "data": { 
+      "id": 5,
+      "restaurantName": "Bulgur King",
+      "adress": "Merkez Camii, Kapı sok. Şişli ",
+      "restaurantPoint": "3.5",
+      "status": "bad",
+      "minimumPrice": "35.0₺",
+      "deliveryCost": "10.0₺",
+      "restaurantImageUrl": "https://i.ibb.co/7vvrxwz/imageedit-10-4852470901.jpg",
+       "imgId": "/7vvrxwz/imageedit-10-4852470901.jpg"
+    }},
+    {
+      "data": { 
+      "id": 6,
+      "restaurantName": "Vaypır Yiyelim",
+      "adress": "Learning Curve street. USA",
+      "restaurantPoint": "8.5",
+      "status": "good",
+      "minimumPrice": "10.0₺",
+      "deliveryCost": "0.0₺",
+      "restaurantImageUrl": "https://i.ibb.co/PcKPSX9/imageedit-12-5594272064.jpg",
+       "imgId": "/PcKPSX9/imageedit-12-5594272064.jpg"
+      }}
+  ]
